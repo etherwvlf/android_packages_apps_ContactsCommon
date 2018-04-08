@@ -24,7 +24,7 @@
     <color name="ripple_material_dark">#a0ffffff</color>
 
     <!-- Divider color for header separator -->
-    <color name="primary_text_color">#363636</color>
+    <color name="primary_text_color">#000000</color>
 
     <color name="secondary_text_color">@color/dialtacts_secondary_text_color</color>
 
@@ -140,9 +140,9 @@
     <color name="actionbar_unselected_text_color">#a6ffffff</color>
 
     <!-- Text color of the search box text as entered by user  -->
-    <color name="searchbox_text_color">#000000</color>
+    <color name="searchbox_text_color">#ffffff</color>
     <!-- Background color of the search box -->
-    <color name="searchbox_background_color">#ffffff</color>
+    <color name="searchbox_background_color">#000000</color>
 
     <color name="searchbox_hint_text_color">#737373</color>
     <color name="searchbox_icon_tint">@color/searchbox_hint_text_color</color>
@@ -151,7 +151,7 @@
 
     <!-- Color of the background of the contact detail and editor pages -->
     <color name="background_primary">#f9f9f9</color>
-    <color name="contact_all_list_background_color">#FFFFFF</color>
+    <color name="contact_all_list_background_color">#000000</color>
 
     <!-- Text color used for character counter when the max limit has been exceeded -->
     <color name="call_subject_limit_exceeded">#d1041c</color>
@@ -166,7 +166,7 @@
     <color name="call_subject_button">#00c853</color>
 
     <!-- Background color for the call subject history view. -->
-    <color name="call_subject_history_background">#ffffff</color>
+    <color name="call_subject_history_background">#000000</color>
     <color name="search_video_call_icon_tint">@color/searchbox_hint_text_color</color>
 
     <!-- The selected photo color -->
