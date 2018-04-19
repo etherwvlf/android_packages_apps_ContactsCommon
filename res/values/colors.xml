@@ -150,7 +150,7 @@
     <color name="search_shortcut_icon_color">@color/dialtacts_theme_color</color>
 
     <!-- Color of the background of the contact detail and editor pages -->
-    <color name="background_primary">#f9f9f9</color>
+    <color name="background_primary">#000000</color>
     <color name="contact_all_list_background_color">#000000</color>
 
     <!-- Text color used for character counter when the max limit has been exceeded -->
