@@ -38,7 +38,7 @@
     <color name="secondary_header_separator_color">#D0D0D0</color>
 
     <!-- Color of the theme of the People app -->
-    <color name="people_app_theme_color">#363636</color>
+    <color name="people_app_theme_color">#ffffff</color>
 
     <!-- Color of the theme of the Dialer app -->
     <color name="dialtacts_theme_color">#0288d1</color>
@@ -144,7 +144,7 @@
     <!-- Background color of the search box -->
     <color name="searchbox_background_color">#000000</color>
 
-    <color name="searchbox_hint_text_color">#737373</color>
+    <color name="searchbox_hint_text_color">#ffffff</color>
     <color name="searchbox_icon_tint">@color/searchbox_hint_text_color</color>
 
     <color name="search_shortcut_icon_color">@color/dialtacts_theme_color</color>
